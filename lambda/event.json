@@ -1,0 +1,14 @@
+{
+    "version": "0",
+    "detail-type": "ECR Image Scan",
+    "source": "aws.ecr",
+    "account": "975050154225",
+    "time": "2024-05-23T12:34:56Z",
+    "region": "us-east-1",
+    "resources": [],
+    "detail": {
+        "date":"2024-05-29",
+        "repository-name": "my-app-repo",
+        "image-tags": ["latest"]
+    }
+}
